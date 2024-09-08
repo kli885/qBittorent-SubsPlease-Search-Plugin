@@ -1,0 +1,1 @@
+# qBittorent-SubsPlease-Search-Plugin
