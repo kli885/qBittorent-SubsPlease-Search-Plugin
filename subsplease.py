@@ -1,4 +1,4 @@
-#VERSION: 1.1
+# VERSION: 1.1
 # AUTHORS: PlutoMonkey
 
 # some other imports if necessary
@@ -44,4 +44,3 @@ class subsplease(object):
                         'pub_date': int(release_date.timestamp()),
                     }
                     prettyPrinter(res)
-        
